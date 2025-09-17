@@ -1,0 +1,12 @@
+choice_lang = Select language
+lets_go = Let's get started
+go_back = Go back
+thats_all_save = That's all, save it
+skip = Skip
+yes = Yes
+no_enter_again = No, re-enter
+goodbye_text = Goodbye!
+agree_profile = Yes
+confirm_profile = Is everything correct?
+leave_previous = Leave previous
+need_create_profile = Create a profile to view profiles

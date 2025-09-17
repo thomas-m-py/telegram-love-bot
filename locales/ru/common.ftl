@@ -1,0 +1,12 @@
+choice_lang = Выбери язык
+lets_go = Давай начнем
+go_back = Вернуться назад
+thats_all_save = Это все, сохранить
+skip = Пропустить
+yes = Да
+no_enter_again = Нет, ввести заново
+goodbye_text = Пока!
+agree_profile = Да
+confirm_profile = Все верно?
+leave_previous = Оставить предыдущее
+need_create_profile = Создай профиль, чтобы смотреть анкеты
